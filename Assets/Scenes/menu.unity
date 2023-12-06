@@ -151,7 +151,7 @@ RectTransform:
   m_GameObject: {fileID: 56415038}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.7604, y: 1.7604, z: 1.7604}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1304503775}
@@ -159,7 +159,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -133.27954, y: -98}
+  m_AnchoredPosition: {x: -448, y: -359}
   m_SizeDelta: {x: 320.4416, y: 63.611}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &56415040
@@ -213,7 +213,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
