@@ -1,11 +1,11 @@
 {
   "dependencies": {
-<<<<<<< HEAD
+ 
     "com.unity.cinemachine": "2.9.7",
 =======
     "com.atteneder.gltfast": "https://github.com/atteneder/glTFast.git#v5.0.0",
     "com.readyplayerme.core": "https://github.com/readyplayerme/rpm-unity-sdk-core.git",
->>>>>>> d904dc6c65665fa6ab66c9e07a10337af56cad38
+ 
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.inputsystem": "1.7.0",
